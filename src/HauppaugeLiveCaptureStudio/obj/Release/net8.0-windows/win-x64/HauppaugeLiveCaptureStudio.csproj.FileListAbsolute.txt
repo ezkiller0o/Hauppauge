@@ -1,0 +1,4 @@
+C:\Users\alial\OneDrive\Desktop\HauppaugeLiveCaptureStudio\src\HauppaugeLiveCaptureStudio\obj\Release\net8.0-windows\win-x64\HauppaugeLiveCaptureStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alial\OneDrive\Desktop\HauppaugeLiveCaptureStudio\src\HauppaugeLiveCaptureStudio\obj\Release\net8.0-windows\win-x64\HauppaugeLiveCaptureStudio.AssemblyInfoInputs.cache
+C:\Users\alial\OneDrive\Desktop\HauppaugeLiveCaptureStudio\src\HauppaugeLiveCaptureStudio\obj\Release\net8.0-windows\win-x64\HauppaugeLiveCaptureStudio.AssemblyInfo.cs
+C:\Users\alial\OneDrive\Desktop\HauppaugeLiveCaptureStudio\src\HauppaugeLiveCaptureStudio\obj\Release\net8.0-windows\win-x64\HauppaugeLiveCaptureStudio.csproj.CoreCompileInputs.cache
